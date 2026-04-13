@@ -3,4 +3,4 @@ dataset/train/labels.csv
 dataset/validation/images.csv
 dataset/validation/labels.csv
 venv
-#notebooks/model_weights.weights.h5
+notebooks/model_weights.weights.h5
